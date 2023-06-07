@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Agustin Buffa</h1>
-<h3 align="center">I´m Data Engineer and Data Analyst</h3>
+<h3 align="center">I´m Data Engineer</h3>
 
-- 🔭 I’m currently working on **Datlytics**
+- 🔭 I’m currently working on **Santander Bank Technology **
 
-- 🌱 I’m currently learning **pysprak and AWS Cloud**
+- 🌱 I’m currently learning **SQL, pyspark and AWS Cloud**
 
 - 📫 How to reach me **agustinbuffa50@gmail.com**
 
